@@ -5,5 +5,5 @@ public class Teacher {
     public string Name { get; set; }
     public int SchoolId { get; set; }
     public virtual School School { get; set; }
-    public List<Student> Students { get; } = new();
+    public List<Student> Students { get; }
 }

@@ -6,5 +6,5 @@ public class Principal{
     public string Email { get; set; }
     public string PhoneNumber { get; set; }
     public int SchoolId { get; set; }
-    public virtual School School { get; set; } = null!;
+    public virtual School School { get; set; }
 }
