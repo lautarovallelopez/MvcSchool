@@ -24,12 +24,92 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Principal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Principal/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Principal/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Principal/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Principal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpbmNpcGFsL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/School/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/School/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/School/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/School/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/School/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Teacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Teacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlci9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Teacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlci9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Teacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/Teacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/media/lautaro/compartido/ejerciciosHerramientasProgramacion/MvcSchool/Views/_ViewImports.cshtml]
